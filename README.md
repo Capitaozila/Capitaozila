@@ -5,8 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capitaozila&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cap-Python" height="100" width="1000" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
   <img align="left" alt="Cap1-pic" height="150" style="border-radius:50px;" 
 src="https://i.pinimg.com/564x/62/24/8b/62248b7c9c22a97eb11d19edaa248146.jpg">
   <img align="left" alt="sapointeligente-pic" height="150" style="border-radius:50px;" 
