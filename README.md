@@ -6,14 +6,21 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cap-Python" height="100" width="1000" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cap-pic" height="150" style="border-radius:50px;" 
-src="https://i.pinimg.com/564x/6b/d0/d0/6bd0d0d1e186540329086ec0ff776f7b.jpg">
-  <img align="right" alt="Cap1-pic" height="150" style="border-radius:50px;" 
-src="https://i.pinimg.com/564x/7e/34/5b/7e345b1c3b7dc6497b10228b6ed807c7.jpg">
+  
   <img align="left" alt="Cap1-pic" height="150" style="border-radius:50px;" 
 src="https://i.pinimg.com/564x/62/24/8b/62248b7c9c22a97eb11d19edaa248146.jpg">
-  <img align="left" alt="Cap1-pic" height="150" style="border-radius:50px;" 
+  <img align="left" alt="sapointeligente-pic" height="150" style="border-radius:50px;" 
+src="https://i.pinimg.com/564x/58/62/fc/5862fcf0be0ff830a1b99f6e7a947dcb.jpg">
+  <img align="right" alt="Saposentado-pic" height="150" style="border-radius:50px;" 
 src="https://i.pinimg.com/564x/db/a1/74/dba174e2e0acaf1b2e60df5ea59ebfb0.jpg">
+  <img align="right" alt="Sapoarma-pic" height="150" style="border-radius:50px;" 
+src="https://i.pinimg.com/564x/0b/84/22/0b8422f84f32d54ccb3f4ffe1d01d37f.jpg">
+  <img align="right" alt="sapofeio-pic" height="150" style="border-radius:50px;" 
+src="https://i.pinimg.com/564x/9f/00/ef/9f00ef6fe3b02803460a9eeaf427234d.jpg">
+ <img align="center" alt="Sapochuva-pic" height="150" style="border-radius:50px;" 
+src="https://i.pinimg.com/236x/bf/cb/e9/bfcbe9cd126095a374854a1ba450e29e.jpg">
+  
+  
 </div>
   
   
