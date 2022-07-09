@@ -1,4 +1,4 @@
-## Eae! Luis Brasil aqui e seja bem vindo ao meu perfil de criador de jogos :)
+## Hey! Luis Brasil here. Welcome to my game creator profile. :)
 <div align="center">
   <a href="https://github.com/Capitaozila">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Capitaozila&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
