@@ -1,7 +1,7 @@
 # :joystick:   Hey! Luis Brasil here. Welcome to my game creator profile.  :joystick:
 <div>
  <h2>:flying_saucer:  - My portfolio -  :flying_saucer:</h2>
-    <p>encurtador.com.br/csCOQ</p>
+    <a>encurtador.com.br/csCOQ</a>
 </div>
 <div>
   <h2> :artificial_satellite:  - My scores -  :artificial_satellite: </h2>
