@@ -1,7 +1,7 @@
 # :joystick:   Hey! Luis Brasil here. Welcome to my game creator profile.  :joystick:
 <div>
  <h2>:flying_saucer:  - My portfolio -  :flying_saucer:</h2>
-    <p> https://capitaozila.github.io/Port/ </p>
+    <a href="https://capitaozila.github.io/Port/">Game Maker Portfólio</p>
 </div>
 <div>
   <h2> :artificial_satellite:  - My scores -  :artificial_satellite: </h2>
@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/Capitaozila">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Capitaozila&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capitaozila&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capitaozila&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div>
   <h2> :frog:Imagens de sapinhos inteligentes:frog: </h2>
