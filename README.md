@@ -1,18 +1,16 @@
 # :joystick:   Hey! Luis Brasil here. Welcome to my game creator profile.  :joystick:
-<div>
- <h2>:flying_saucer:  - My portfolio -  :flying_saucer:</h2>
- <a href="https://capitaozila.github.io/Port/">Portfólio</a>
+ <h2 align="center">:flying_saucer:  - My portfolio -  :flying_saucer:</h2>
+ <h2 align="center"><a href="https://capitaozila.github.io/Port/">Portfólio</a></h2>
 </div>
 <div>
-  <h2> :artificial_satellite:  - My scores -  :artificial_satellite: </h2>
+  <h2 align="center"> :artificial_satellite:  - My scores -  :artificial_satellite: </h2>
 </div>
 <div align="center">
   <a href="https://github.com/Capitaozila">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Capitaozila&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capitaozila&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capitaozila&layout=compact&langs_count=7&theme=github_dark"/>
+</div><div>
 <div>
-  <h2> :frog:Imagens de sapinhos inteligentes:frog: </h2>
+  <h2 align="center"> :frog:PNG:frog: </h2>
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="Cap1-pic" height="150" style="border-radius:50px;" 
@@ -32,7 +30,7 @@ src="https://i.pinimg.com/236x/bf/cb/e9/bfcbe9cd126095a374854a1ba450e29e.jpg">
 </div>
   
 <div>
-<h2>:snake: Snake.gif :snake:</h2>
+<h2 align="center">:snake: Snake.gif :snake:</h2>
 </div>
 
 
