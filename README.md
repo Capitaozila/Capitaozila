@@ -2,6 +2,7 @@
 <div>
  <h2>:flying_saucer:  - My portfolio -  :flying_saucer:</h2>
  <a href="https://capitaozila.github.io/Port/" target="_blank">Game Maker Portfólio</a>
+ <p>Confira o <a href="https://capitaozila.github.io/Port/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
 </div>
 <div>
   <h2> :artificial_satellite:  - My scores -  :artificial_satellite: </h2>
