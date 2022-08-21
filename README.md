@@ -33,5 +33,5 @@ src="https://i.pinimg.com/236x/bf/cb/e9/bfcbe9cd126095a374854a1ba450e29e.jpg">
   
 <div>
 <h2>:snake:   Snake.gif:   snake:</h2>
-![Snake animation](https://github.com/Capitaozila/Capitaozila/blob/output/github-contribution-grid-snake.svg)
 </div>
+![Snake animation](https://github.com/Capitaozila/Capitaozila/blob/output/github-contribution-grid-snake.svg)
