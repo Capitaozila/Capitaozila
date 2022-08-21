@@ -32,7 +32,7 @@ src="https://i.pinimg.com/236x/bf/cb/e9/bfcbe9cd126095a374854a1ba450e29e.jpg">
 </div>
   
 <div>
-<h2>:snake:   Snake.gif:   snake:</h2>
+<h2>:snake:   Snake.gif      :snake:</h2>
 </div>
 
 
