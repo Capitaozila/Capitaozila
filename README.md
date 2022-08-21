@@ -1,8 +1,7 @@
 # :joystick:   Hey! Luis Brasil here. Welcome to my game creator profile.  :joystick:
 <div>
  <h2>:flying_saucer:  - My portfolio -  :flying_saucer:</h2>
- <a href="https://capitaozila.github.io/Port/" target="_blank">Game Maker Portfólio</a>
- <p>Confira o <a href="https://capitaozila.github.io/Port/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
+ <a href="https://capitaozila.github.io/Port/" target="_blank">Portfólio</a>
 </div>
 <div>
   <h2> :artificial_satellite:  - My scores -  :artificial_satellite: </h2>
@@ -33,7 +32,7 @@ src="https://i.pinimg.com/236x/bf/cb/e9/bfcbe9cd126095a374854a1ba450e29e.jpg">
 </div>
   
 <div>
-<h2>:snake:   Snake.gif      :snake:</h2>
+<h2>:snake: Snake.gif :snake:</h2>
 </div>
 
 
