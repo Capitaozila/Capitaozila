@@ -10,7 +10,7 @@
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capitaozila&layout=compact&langs_count=7&theme=github_dark"/>
 </div><div>
 <div>
-  <h2 align="center"> :frog:PNG:frog: </h2>
+  <h2 align="center"> :frog: </h2>
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="Cap1-pic" height="150" style="border-radius:50px;" 
