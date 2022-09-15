@@ -1,4 +1,4 @@
-# :joystick:   Hey! Luis Brasil here. Welcome to my game creator profile.  :joystick:
+# :joystick:   Hey! Luis Brasil here. Welcome to my game creator and Front-end profile.  :joystick:
  <h2 align="center">:flying_saucer:  - My portfolio -  :flying_saucer:</h2>
  <h2 align="center"><a href="https://capitaozila.github.io/Port/">Portfólio</a></h2>
 </div>
