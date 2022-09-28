@@ -27,8 +27,10 @@ jobs:
         with:
           
           github_user_name: ${{ github.repository_owner }}
-          color_snake: white
+          color_snake: 3
+          
           outputs: |
+            color_snake: 4
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
