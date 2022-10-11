@@ -28,7 +28,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=red
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=red&color_dots=#0909fd,#0000cd,#120a8f,#000080,#191970
             
       #dist/github-contribution-grid-snake.svg?color_snake=red&color_dots=#fc0303,#fc1414,#64a1f4,#4b91f1
       # push the content of <build_dir> to a branch
