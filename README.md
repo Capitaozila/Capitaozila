@@ -6,7 +6,7 @@
   <h2 align="center"> :artificial_satellite:  - My scores -  :artificial_satellite: </h2>
 </div>
 <div align="center">
-
+  <td><img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capitaozila&hide=ShaderLab&layout=compact&show_icons=true&theme=tokyonight" /></td>
 </div>
 <div>
 <h2 align="center">:snake: Snake.gif :snake:</h2>
