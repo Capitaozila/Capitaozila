@@ -6,8 +6,7 @@
   <h2 align="center"> :artificial_satellite:  - My scores -  :artificial_satellite: </h2>
 </div>
 <div align="center">
-  <a href="https://github.com/Capitaozila">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capitaozila&layout=compact&langs_count=7&theme=github_dark"/>
+
 </div>
 <div>
 <h2 align="center">:snake: Snake.gif :snake:</h2>
