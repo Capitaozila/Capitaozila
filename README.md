@@ -6,7 +6,7 @@
   <h2 align="center"> :artificial_satellite:  - My scores -  :artificial_satellite: </h2>
 </div>
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Capitaozila)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <div>
 <h2 align="center">:snake: Snake.gif :snake:</h2>
