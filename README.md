@@ -1,5 +1,5 @@
-<h1 align="center"> Hey! Luis Brasil here</h1>
-<h2 align="center">Welcome to my Front-end profile :joystick:</h2>
+<h1 align="center"> :star_struck: Hey! Luis Brasil here and i wanna a job :star_struck:</h1>
+<h2 align="center">:star:Welcome to my Front-end profile :star:</h2>
 <h2 align="center">:flying_saucer:  - My portfolio -  :flying_saucer: </h2>
 <h3 align="center"><a href="https://capitaozila.github.io/Port/">Portfolio</a></h3>
 </div>
