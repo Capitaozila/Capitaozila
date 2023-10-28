@@ -26,8 +26,8 @@
 <h2 align="center">:snake: Snake.gif :snake:</h2>
 <p align="center">Watch my GitHub contributions in motion:</p>
 <p align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+<!--   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /> -->
   <img alt="github-snake" src="https://github.com/Capitaozila/Capitaozila/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
