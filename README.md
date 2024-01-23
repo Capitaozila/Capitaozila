@@ -26,11 +26,15 @@
 <h2 align="center">:snake: Snake.gif :snake:</h2>
 <p align="center">Watch my GitHub contributions in motion:</p>
 <p align="center">
-<!--   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /> -->
-  <img alt="github-snake" src="https://github.com/Capitaozila/Capitaozila/blob/output/github-contribution-grid-snake.svg" />
-</p>
+  <picture>
+  <source alt="github-snake" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Capitaozila/Capitaozila/output/github-contribution-grid-snake-dark.svg">
+  <source alt="github-snake" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Capitaozila/Capitaozila/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Capitaozila/Capitaozila/output/github-contribution-grid-snake.svg">
+</picture>
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
+</p>
 
 <!-- Imagem Fofinha -->
 <p align="center">
