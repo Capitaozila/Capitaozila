@@ -8,7 +8,7 @@
 
 <!-- Descrição -->
 <h2 align="center">Welcome to my Front-end profile! :star:</h2>
-<p align="center">I'm a passionate front-end developer based in [Your Location]. I love creating beautiful and user-friendly web experiences.</p>
+<p align="center">I'm a passionate front-end developer. I love creating beautiful and user-friendly web experiences.</p>
 
 <!-- Portfolio Link -->
 <h2 align="center">:computer: Portfolio :computer:</h2>
